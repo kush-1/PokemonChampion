@@ -9,6 +9,6 @@ import SpriteKit
 
 class MapScene: SKScene {
     override func didMove(to view: SKView) {
-        backgroundColor = .green  // just a placeholder to verify it loads
+        
     }
 }
